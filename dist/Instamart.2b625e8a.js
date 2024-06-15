@@ -1,0 +1,2 @@
+var e=globalThis.parcelRequirecf82;(0,e.register)("1Cctz",function(i,r){Object.defineProperty(i.exports,"__esModule",{value:!0,configurable:!0}),Object.defineProperty(i.exports,"default",{get:()=>s,set:void 0,enumerable:!0,configurable:!0});var n=e("4PYQi"),s=()=>(0,n.jsxs)("div",{children:[(0,n.jsx)("h1",{children:"This is an Instamart page."}),(0,n.jsx)("h1",{children:"This is a new option includes in Swiggy."})]})});
+//# sourceMappingURL=Instamart.2b625e8a.js.map
