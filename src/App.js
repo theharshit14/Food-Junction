@@ -63,5 +63,7 @@ const appRouter = createBrowserRouter([
   },
 ]);
 
+export default Applayout;
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<RouterProvider router={appRouter} />);
